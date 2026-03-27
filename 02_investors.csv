@@ -1,0 +1,201 @@
+investor_id,investor_type,country,geo_preference,sector_preference,stage_preference,min_ticket_usd,max_ticket_usd,deals_closed_total,avg_irr_expected_pct,esg_focused,active_status,registered_date
+INV0001,VC Fund,India,UAE+India,"AgriTech, Retail, EdTech","Series A, Seed",100000,1100000,30,26.3,0,Dormant,2024-05-18
+INV0002,VC Fund,Singapore,Global,"Retail, NBFC, Logistics","Seed, Series A, Profitable SME",1000000,11000000,18,36.1,0,Active,2022-01-05
+INV0003,Family Office,UAE,UAE Only,"Logistics, Manufacturing","Series A, Pre-IPO",1000000,8000000,34,31.7,1,Active,2024-01-23
+INV0004,Angel,Saudi Arabia,GCC,"AgriTech, NBFC, HealthTech","Seed, Series A",10000000,80000000,28,38.1,0,Active,2022-08-25
+INV0005,Angel,UAE,UAE+India,"EdTech, Real Estate","Seed, Series A",5000000,40000000,0,25.1,0,Passive,2022-10-20
+INV0006,Private Equity,India,GCC,"ECommerce, EdTech","Growth, Pre-IPO, Seed",100000,1800000,3,37.5,0,Passive,2021-07-30
+INV0007,VC Fund,UAE,India Only,Real Estate,"Seed, Growth, Pre-IPO",1000000,19000000,27,26.2,1,Passive,2021-06-13
+INV0008,Family Office,Bahrain,UAE Only,"Manufacturing, AgriTech, Retail, Real Estate","Pre-IPO, Profitable SME",10000000,150000000,17,42.9,0,Active,2022-11-03
+INV0009,VC Fund,India,UAE+India,EdTech,Growth,100000,900000,25,27.0,0,Passive,2024-09-15
+INV0010,VC Fund,UAE,GCC,"Real Estate, CleanEnergy, Fintech, ECommerce","Series A, Pre-IPO, Seed",5000000,45000000,39,26.2,0,Active,2022-08-29
+INV0011,Private Equity,UAE,UAE+India,"Fintech, Manufacturing, Logistics, Real Estate","Profitable SME, Pre-IPO, Series B",1000000,12000000,18,37.5,0,Active,2022-09-20
+INV0012,Private Equity,India,GCC,"AgriTech, ECommerce, CleanEnergy, EdTech","Profitable SME, Seed",1000000,13000000,5,38.8,0,Active,2023-07-03
+INV0013,Private Equity,Singapore,UAE+India,"EdTech, Logistics, Real Estate, Retail",Growth,1000000,6000000,0,29.4,0,Active,2024-05-19
+INV0014,Family Office,Saudi Arabia,UAE+India,Real Estate,"Growth, Seed",100000,1500000,7,16.3,0,Passive,2023-05-23
+INV0015,VC Fund,India,UAE+India,"SaaS, ECommerce, Real Estate","Profitable SME, Growth",100000,1100000,32,26.4,0,Dormant,2021-12-08
+INV0016,VC Fund,UAE,India Only,"Retail, HealthTech",Seed,100000,500000,20,43.9,0,Active,2024-11-13
+INV0017,Angel,India,GCC,Real Estate,"Pre-IPO, Series A",100000,500000,23,36.4,0,Passive,2023-06-29
+INV0018,VC Fund,India,UAE+India,NBFC,Series A,10000000,80000000,24,38.4,0,Passive,2022-12-21
+INV0019,Family Office,Saudi Arabia,India Only,"HealthTech, Retail, ECommerce, Fintech","Pre-IPO, Profitable SME",500000,7000000,18,11.1,0,Dormant,2023-07-05
+INV0020,VC Fund,UAE,India Only,"Real Estate, Manufacturing, EdTech","Profitable SME, Series B, Growth",10000000,110000000,28,26.4,0,Active,2021-03-28
+INV0021,Private Equity,India,UAE Only,"Manufacturing, ECommerce, Real Estate, Logistics","Pre-IPO, Series B, Growth",1000000,6000000,9,32.6,0,Active,2022-12-24
+INV0022,VC Fund,India,Global,"Logistics, NBFC, Retail, Fintech","Pre-IPO, Growth, Seed",10000000,150000000,11,39.1,1,Active,2024-06-13
+INV0023,VC Fund,Singapore,UAE Only,Manufacturing,"Seed, Pre-IPO, Series A",5000000,30000000,32,11.7,0,Passive,2023-06-10
+INV0024,Family Office,Egypt,UAE+India,"SaaS, NBFC","Growth, Series A",100000,500000,6,39.8,0,Active,2022-07-17
+INV0025,Sovereign Fund,Saudi Arabia,India Only,Fintech,"Series B, Growth",5000000,70000000,16,29.2,0,Active,2024-08-02
+INV0026,VC Fund,India,India Only,"EdTech, Fintech","Growth, Seed",5000000,30000000,9,16.9,1,Active,2021-04-28
+INV0027,Private Equity,UAE,UAE+India,"EdTech, HealthTech","Growth, Series B",1000000,17000000,30,21.1,1,Active,2021-06-03
+INV0028,Angel,Saudi Arabia,UAE Only,"SaaS, NBFC, CleanEnergy, EdTech","Series B, Profitable SME, Series A",100000,1900000,5,19.9,0,Passive,2024-10-06
+INV0029,Family Office,UAE,GCC,"ECommerce, Logistics, Manufacturing, HealthTech","Growth, Seed, Pre-IPO",5000000,55000000,16,28.6,0,Passive,2024-07-29
+INV0030,NBFC,UAE,UAE+India,HealthTech,Seed,1000000,13000000,36,11.8,0,Passive,2023-04-12
+INV0031,VC Fund,UAE,UAE+India,"NBFC, CleanEnergy, Fintech","Seed, Series B",100000,1000000,17,15.5,0,Passive,2023-01-15
+INV0032,HNI,Saudi Arabia,UAE Only,"CleanEnergy, SaaS, Real Estate",Pre-IPO,500000,7000000,25,38.4,0,Active,2023-11-17
+INV0033,Private Equity,UAE,UAE+India,"ECommerce, EdTech, NBFC, SaaS",Pre-IPO,1000000,6000000,15,14.6,1,Active,2024-10-23
+INV0034,Private Equity,India,UAE+India,ECommerce,"Pre-IPO, Series B, Seed",10000000,160000000,7,18.2,0,Active,2021-11-24
+INV0035,NBFC,India,UAE+India,"SaaS, CleanEnergy, NBFC","Series B, Growth",100000,1900000,23,25.9,1,Active,2021-03-05
+INV0036,Family Office,UAE,GCC,Manufacturing,"Seed, Series B, Pre-IPO",5000000,70000000,12,28.1,0,Active,2021-10-20
+INV0037,Family Office,UAE,GCC,"SaaS, Manufacturing, NBFC, AgriTech","Seed, Pre-IPO",5000000,95000000,28,36.7,1,Passive,2024-05-29
+INV0038,Angel,Saudi Arabia,Global,"Fintech, Real Estate, Retail","Series A, Profitable SME, Growth",10000000,140000000,31,25.7,1,Active,2024-10-20
+INV0039,Family Office,Saudi Arabia,UAE+India,Real Estate,Seed,10000000,170000000,23,37.6,0,Passive,2023-06-17
+INV0040,VC Fund,UAE,India Only,"SaaS, Retail, HealthTech","Pre-IPO, Series B",5000000,65000000,15,31.6,0,Active,2021-03-13
+INV0041,Angel,Bahrain,India Only,"HealthTech, AgriTech, Logistics, SaaS",Series B,100000,1100000,10,14.0,0,Active,2021-09-16
+INV0042,VC Fund,Saudi Arabia,India Only,"Retail, Real Estate, CleanEnergy, Logistics","Series A, Growth, Seed",1000000,15000000,31,15.5,0,Active,2021-05-18
+INV0043,NBFC,UAE,India Only,"EdTech, NBFC, Logistics","Profitable SME, Series B, Seed",10000000,50000000,5,25.3,0,Active,2022-04-29
+INV0044,HNI,India,India Only,"EdTech, Retail, CleanEnergy, Real Estate",Series B,10000000,160000000,34,23.9,0,Active,2024-08-14
+INV0045,Private Equity,Singapore,India Only,"Fintech, Retail, Manufacturing","Series B, Profitable SME, Pre-IPO",10000000,130000000,32,36.0,0,Active,2023-01-21
+INV0046,Private Equity,India,UAE+India,"Retail, EdTech",Series A,500000,3000000,17,30.3,1,Active,2023-01-12
+INV0047,VC Fund,UAE,UAE Only,"Logistics, Manufacturing, ECommerce",Pre-IPO,100000,800000,36,23.6,0,Active,2023-02-24
+INV0048,VC Fund,Egypt,UAE+India,"AgriTech, Fintech, ECommerce","Growth, Seed, Series A",100000,1300000,12,16.0,1,Active,2024-03-07
+INV0049,Sovereign Fund,India,UAE Only,"NBFC, EdTech","Profitable SME, Seed, Pre-IPO",100000,800000,9,17.9,0,Passive,2021-03-08
+INV0050,VC Fund,UAE,India Only,"Retail, AgriTech, EdTech, ECommerce","Pre-IPO, Series A, Growth",100000,700000,36,30.1,1,Passive,2024-05-24
+INV0051,Private Equity,India,UAE Only,"Retail, Fintech, NBFC, Logistics","Growth, Series B",100000,500000,25,24.8,0,Active,2021-11-11
+INV0052,NBFC,India,India Only,"Real Estate, EdTech",Series B,5000000,55000000,16,28.0,0,Passive,2024-10-22
+INV0053,Sovereign Fund,Bahrain,UAE+India,"SaaS, CleanEnergy, Manufacturing","Profitable SME, Series B",10000000,190000000,0,16.0,1,Passive,2023-07-11
+INV0054,Family Office,India,UAE+India,"AgriTech, ECommerce, Manufacturing, Real Estate","Pre-IPO, Seed, Profitable SME",5000000,50000000,24,33.2,0,Passive,2023-01-30
+INV0055,Family Office,UAE,India Only,"Manufacturing, Retail, Logistics",Series A,500000,7000000,33,39.8,1,Active,2023-02-01
+INV0056,Angel,India,GCC,"Logistics, EdTech, NBFC","Seed, Profitable SME, Series B",1000000,8000000,38,19.0,0,Active,2023-06-29
+INV0057,HNI,India,GCC,"Manufacturing, NBFC","Profitable SME, Growth",10000000,100000000,9,27.2,0,Passive,2021-06-07
+INV0058,Family Office,UAE,UAE+India,"EdTech, ECommerce","Pre-IPO, Growth",500000,5000000,19,44.1,0,Active,2024-03-21
+INV0059,Family Office,India,UAE+India,"Logistics, CleanEnergy, AgriTech, ECommerce","Series B, Series A",5000000,85000000,6,21.7,1,Dormant,2021-10-09
+INV0060,VC Fund,Saudi Arabia,GCC,EdTech,"Seed, Series B, Growth",1000000,8000000,15,30.8,0,Passive,2023-12-21
+INV0061,VC Fund,UAE,UAE+India,"EdTech, Manufacturing, HealthTech",Series B,500000,9000000,36,13.2,1,Active,2023-01-22
+INV0062,Family Office,India,UAE+India,"Fintech, AgriTech, HealthTech","Profitable SME, Pre-IPO, Growth",1000000,17000000,28,31.2,1,Active,2023-03-27
+INV0063,Sovereign Fund,UAE,UAE Only,"Fintech, ECommerce, AgriTech","Profitable SME, Series B, Seed",500000,5000000,11,13.1,0,Active,2022-10-06
+INV0064,NBFC,UAE,India Only,"ECommerce, HealthTech, Retail",Growth,5000000,70000000,16,43.6,0,Active,2024-08-23
+INV0065,HNI,UAE,Global,Fintech,"Seed, Profitable SME, Series A",1000000,15000000,19,35.0,1,Active,2022-07-25
+INV0066,Family Office,UAE,UAE+India,"Retail, ECommerce, SaaS","Series A, Profitable SME",500000,6000000,25,37.6,0,Active,2022-05-27
+INV0067,Angel,Saudi Arabia,GCC,"HealthTech, Fintech, Logistics","Series B, Profitable SME",5000000,85000000,18,34.6,0,Active,2021-08-21
+INV0068,NBFC,UAE,GCC,"NBFC, ECommerce, Real Estate, Retail",Seed,10000000,70000000,11,30.6,0,Active,2021-02-23
+INV0069,Family Office,India,India Only,CleanEnergy,"Profitable SME, Growth",5000000,40000000,20,25.7,0,Dormant,2022-01-17
+INV0070,Private Equity,UAE,GCC,HealthTech,Series A,5000000,70000000,33,40.0,0,Active,2023-10-20
+INV0071,Family Office,Singapore,UAE+India,"CleanEnergy, Logistics","Pre-IPO, Series A",10000000,170000000,6,43.5,0,Dormant,2023-11-27
+INV0072,NBFC,India,India Only,EdTech,"Pre-IPO, Series B, Seed",5000000,80000000,34,27.5,1,Dormant,2023-03-04
+INV0073,Private Equity,India,UAE+India,AgriTech,"Profitable SME, Seed",10000000,180000000,14,42.6,0,Active,2024-02-25
+INV0074,Sovereign Fund,UAE,UAE+India,"CleanEnergy, ECommerce, SaaS, EdTech","Seed, Growth",10000000,190000000,0,30.4,0,Passive,2021-08-30
+INV0075,VC Fund,UAE,UAE Only,"Retail, ECommerce, Logistics, Real Estate",Series B,10000000,50000000,25,28.8,1,Active,2022-06-21
+INV0076,Angel,UAE,GCC,"CleanEnergy, ECommerce, Fintech","Growth, Pre-IPO, Profitable SME",500000,4000000,34,25.9,1,Passive,2022-06-18
+INV0077,Family Office,Egypt,India Only,EdTech,"Profitable SME, Growth, Series B",1000000,15000000,24,17.3,1,Active,2024-12-12
+INV0078,Angel,India,UAE+India,"Logistics, SaaS",Growth,500000,7000000,14,10.1,0,Active,2023-07-03
+INV0079,Private Equity,India,India Only,HealthTech,Series B,10000000,140000000,21,18.5,1,Active,2022-03-16
+INV0080,Sovereign Fund,India,UAE+India,"HealthTech, AgriTech",Pre-IPO,1000000,16000000,5,27.8,0,Active,2024-06-07
+INV0081,Family Office,UAE,UAE+India,HealthTech,"Profitable SME, Series B",1000000,18000000,14,23.3,0,Active,2022-08-08
+INV0082,Private Equity,India,India Only,Real Estate,Growth,10000000,130000000,23,25.7,0,Active,2024-11-22
+INV0083,Family Office,India,Global,"ECommerce, CleanEnergy, Retail, Logistics",Series A,1000000,12000000,20,44.3,0,Active,2023-10-03
+INV0084,Private Equity,India,Global,EdTech,"Pre-IPO, Growth",1000000,15000000,6,22.3,1,Active,2022-02-14
+INV0085,Private Equity,India,UAE Only,"ECommerce, Logistics, Retail","Seed, Growth, Series B",500000,4000000,28,25.8,0,Active,2021-09-09
+INV0086,Private Equity,UAE,India Only,SaaS,"Series B, Series A, Profitable SME",1000000,16000000,31,14.7,1,Active,2021-10-05
+INV0087,NBFC,UAE,Global,"Logistics, SaaS",Seed,10000000,110000000,31,11.7,1,Active,2021-06-01
+INV0088,Family Office,Saudi Arabia,Global,"Real Estate, NBFC","Profitable SME, Seed, Series A",100000,1400000,4,37.1,0,Active,2023-07-15
+INV0089,Angel,India,UAE Only,"SaaS, HealthTech","Series B, Series A",100000,700000,3,30.0,0,Passive,2021-12-20
+INV0090,Private Equity,UAE,UAE Only,"HealthTech, NBFC, Fintech",Seed,100000,1300000,21,36.6,0,Active,2024-12-31
+INV0091,Private Equity,Egypt,UAE Only,"Logistics, CleanEnergy",Series B,10000000,140000000,17,15.2,0,Passive,2023-07-01
+INV0092,HNI,UAE,Global,"Retail, NBFC, ECommerce",Series A,100000,800000,34,30.0,0,Active,2021-06-29
+INV0093,Family Office,Bahrain,UAE Only,"ECommerce, Real Estate, Logistics","Series A, Seed, Profitable SME",500000,3000000,16,18.9,1,Passive,2024-10-28
+INV0094,Sovereign Fund,Singapore,GCC,"Retail, NBFC, CleanEnergy, Fintech","Growth, Profitable SME, Pre-IPO",10000000,140000000,23,18.0,0,Active,2022-10-17
+INV0095,VC Fund,Bahrain,UAE+India,"ECommerce, Manufacturing, CleanEnergy, Logistics","Pre-IPO, Profitable SME, Series B",10000000,90000000,1,10.4,0,Active,2024-09-29
+INV0096,VC Fund,Saudi Arabia,UAE Only,NBFC,"Series B, Series A, Growth",10000000,60000000,12,14.6,1,Active,2022-12-13
+INV0097,NBFC,UAE,UAE+India,"SaaS, CleanEnergy",Growth,1000000,18000000,14,20.8,0,Active,2024-12-24
+INV0098,Angel,UAE,India Only,SaaS,"Profitable SME, Series B",1000000,14000000,4,14.1,1,Active,2021-05-13
+INV0099,VC Fund,India,UAE+India,"CleanEnergy, Fintech, HealthTech","Pre-IPO, Seed",1000000,10000000,2,44.5,0,Active,2024-02-01
+INV0100,Private Equity,UAE,India Only,"AgriTech, SaaS, Retail, Logistics","Pre-IPO, Seed",5000000,75000000,36,20.8,0,Dormant,2024-01-16
+INV0101,NBFC,UAE,UAE+India,"CleanEnergy, Real Estate","Growth, Profitable SME",500000,7000000,36,14.6,0,Active,2022-08-18
+INV0102,Family Office,Saudi Arabia,UAE+India,"NBFC, Retail, Manufacturing, Real Estate",Seed,10000000,50000000,36,17.0,0,Active,2022-09-07
+INV0103,Angel,UAE,India Only,"Manufacturing, SaaS, NBFC","Series B, Seed",10000000,180000000,2,30.6,0,Passive,2021-11-19
+INV0104,Private Equity,Egypt,UAE Only,"Manufacturing, Real Estate","Seed, Pre-IPO, Growth",1000000,10000000,34,12.2,1,Active,2024-12-28
+INV0105,Private Equity,Saudi Arabia,India Only,"Logistics, SaaS, Real Estate, AgriTech","Pre-IPO, Profitable SME",10000000,80000000,22,40.2,0,Passive,2024-12-24
+INV0106,HNI,Saudi Arabia,India Only,Retail,"Seed, Growth, Series A",10000000,70000000,27,43.7,1,Active,2024-12-05
+INV0107,VC Fund,Saudi Arabia,UAE+India,Manufacturing,"Pre-IPO, Growth",100000,600000,29,18.6,0,Passive,2024-07-30
+INV0108,Family Office,Bahrain,UAE+India,"Manufacturing, NBFC, Real Estate","Series A, Seed, Growth",10000000,110000000,17,25.8,0,Active,2021-12-23
+INV0109,NBFC,Saudi Arabia,GCC,SaaS,Series B,5000000,65000000,35,10.8,0,Passive,2023-01-11
+INV0110,VC Fund,India,UAE+India,"Real Estate, Fintech, EdTech, AgriTech","Seed, Pre-IPO, Series A",1000000,16000000,32,32.4,1,Passive,2023-11-08
+INV0111,Private Equity,UAE,UAE+India,"CleanEnergy, Retail, SaaS",Series A,500000,3500000,25,24.5,0,Active,2022-04-05
+INV0112,Family Office,Bahrain,UAE+India,EdTech,"Growth, Profitable SME, Series A",500000,5000000,39,19.5,0,Active,2021-09-06
+INV0113,Family Office,Saudi Arabia,India Only,"AgriTech, HealthTech, Logistics","Series B, Profitable SME",100000,1300000,16,17.2,1,Active,2022-02-16
+INV0114,Family Office,India,India Only,"ECommerce, Retail, NBFC, Fintech","Growth, Series B",500000,3000000,39,32.9,0,Dormant,2021-10-12
+INV0115,Private Equity,UAE,India Only,"ECommerce, HealthTech","Pre-IPO, Seed, Series B",500000,5500000,6,24.6,1,Active,2022-04-30
+INV0116,Family Office,India,GCC,"AgriTech, Fintech, ECommerce",Series B,1000000,9000000,7,16.3,0,Active,2023-10-09
+INV0117,Family Office,UAE,India Only,"NBFC, EdTech, ECommerce, Retail",Pre-IPO,1000000,9000000,30,34.1,1,Active,2021-02-23
+INV0118,Angel,Egypt,India Only,SaaS,"Growth, Series B, Pre-IPO",5000000,75000000,11,29.8,1,Active,2023-01-10
+INV0119,VC Fund,Singapore,UAE Only,"Retail, Logistics","Profitable SME, Pre-IPO, Series A",100000,1100000,30,40.1,1,Active,2024-02-09
+INV0120,Family Office,UAE,UAE+India,"Real Estate, Retail, SaaS","Seed, Pre-IPO",500000,6500000,18,14.1,0,Dormant,2024-03-18
+INV0121,HNI,India,India Only,"Retail, AgriTech","Series A, Series B, Pre-IPO",5000000,40000000,9,37.5,0,Active,2023-01-26
+INV0122,Family Office,UAE,UAE Only,"Real Estate, EdTech","Profitable SME, Growth, Series A",100000,1300000,38,33.6,1,Passive,2023-08-16
+INV0123,Angel,India,India Only,"NBFC, Logistics","Profitable SME, Seed, Series B",500000,9500000,11,14.0,0,Active,2024-02-04
+INV0124,Family Office,UAE,India Only,"Manufacturing, AgriTech, Logistics, Fintech","Growth, Series B, Series A",500000,9000000,19,34.3,0,Active,2021-09-23
+INV0125,NBFC,India,GCC,"ECommerce, Logistics, CleanEnergy","Profitable SME, Pre-IPO, Seed",1000000,17000000,36,25.5,1,Active,2024-06-07
+INV0126,Sovereign Fund,UAE,India Only,"HealthTech, Retail, AgriTech, SaaS","Profitable SME, Growth, Series B",10000000,150000000,6,43.1,0,Active,2021-06-26
+INV0127,VC Fund,UAE,India Only,"Manufacturing, AgriTech, SaaS",Series B,100000,1400000,13,15.0,0,Dormant,2021-05-15
+INV0128,Private Equity,UAE,GCC,"Retail, Manufacturing, EdTech, CleanEnergy","Series A, Profitable SME",500000,6500000,10,32.5,0,Passive,2022-09-26
+INV0129,Private Equity,UAE,India Only,"EdTech, Real Estate, Fintech, Manufacturing","Growth, Series A",100000,1700000,6,23.4,0,Active,2023-03-27
+INV0130,Private Equity,India,UAE Only,"ECommerce, Real Estate, SaaS, HealthTech",Series A,5000000,40000000,28,43.5,0,Active,2023-09-08
+INV0131,VC Fund,UAE,UAE+India,"Fintech, HealthTech, AgriTech, Manufacturing",Seed,5000000,35000000,9,21.5,1,Active,2023-12-13
+INV0132,NBFC,India,India Only,Retail,"Seed, Pre-IPO",10000000,60000000,28,43.7,0,Dormant,2023-04-22
+INV0133,VC Fund,Bahrain,India Only,AgriTech,"Profitable SME, Pre-IPO, Seed",500000,6500000,8,41.6,1,Passive,2023-04-19
+INV0134,Family Office,Saudi Arabia,UAE Only,"Fintech, HealthTech, Real Estate, SaaS","Series B, Pre-IPO, Series A",1000000,16000000,35,19.5,1,Passive,2024-03-23
+INV0135,Angel,Bahrain,GCC,Retail,"Growth, Series A, Pre-IPO",500000,3000000,9,38.1,1,Active,2021-06-01
+INV0136,VC Fund,Egypt,GCC,"Manufacturing, CleanEnergy, Real Estate",Profitable SME,100000,1000000,18,44.8,0,Active,2021-09-14
+INV0137,Sovereign Fund,UAE,GCC,Manufacturing,"Series A, Growth, Seed",5000000,45000000,30,18.8,1,Active,2022-10-12
+INV0138,NBFC,UAE,UAE+India,"Manufacturing, SaaS, Retail, AgriTech","Series B, Series A",100000,1800000,16,25.3,0,Active,2024-08-08
+INV0139,Family Office,India,UAE Only,CleanEnergy,"Pre-IPO, Series B",10000000,90000000,8,28.2,0,Active,2021-06-01
+INV0140,Private Equity,Bahrain,India Only,EdTech,"Growth, Series A, Pre-IPO",5000000,40000000,32,20.3,1,Active,2023-07-11
+INV0141,VC Fund,Singapore,UAE+India,"EdTech, NBFC, Real Estate","Growth, Series A",1000000,10000000,33,10.5,0,Active,2023-08-13
+INV0142,Angel,UAE,Global,SaaS,"Profitable SME, Pre-IPO",5000000,45000000,23,17.7,1,Passive,2024-10-24
+INV0143,VC Fund,UAE,UAE Only,Retail,"Growth, Series B",500000,7500000,8,19.9,0,Passive,2023-11-26
+INV0144,Angel,UAE,GCC,"ECommerce, Logistics","Pre-IPO, Profitable SME",500000,4000000,6,25.5,1,Active,2022-12-07
+INV0145,NBFC,Saudi Arabia,India Only,Fintech,"Series A, Profitable SME",5000000,85000000,15,16.0,0,Active,2021-09-20
+INV0146,VC Fund,India,UAE Only,"Fintech, Logistics, Manufacturing","Series A, Series B, Seed",10000000,130000000,18,40.6,1,Active,2024-02-04
+INV0147,NBFC,UAE,India Only,"Real Estate, HealthTech, EdTech","Growth, Series B, Seed",500000,8500000,38,34.7,0,Passive,2024-08-03
+INV0148,VC Fund,India,UAE Only,"CleanEnergy, SaaS, HealthTech, ECommerce","Pre-IPO, Seed, Series B",500000,5000000,5,13.0,0,Passive,2024-04-18
+INV0149,Sovereign Fund,India,UAE+India,"NBFC, CleanEnergy",Series A,1000000,15000000,10,32.8,0,Passive,2022-01-08
+INV0150,VC Fund,Saudi Arabia,GCC,"CleanEnergy, SaaS, EdTech, Retail","Growth, Pre-IPO",5000000,70000000,11,32.9,0,Passive,2021-09-22
+INV0151,Family Office,UAE,UAE Only,"EdTech, Retail",Growth,500000,7000000,12,43.5,0,Active,2023-06-06
+INV0152,Private Equity,Bahrain,UAE Only,"Retail, Logistics, Fintech",Series A,10000000,170000000,11,10.1,0,Active,2023-10-27
+INV0153,NBFC,India,UAE+India,"Logistics, SaaS, AgriTech, HealthTech","Series B, Seed",100000,1400000,20,18.7,0,Active,2021-04-24
+INV0154,Family Office,Saudi Arabia,UAE Only,Retail,"Seed, Growth",5000000,85000000,9,42.5,0,Active,2021-09-12
+INV0155,VC Fund,Saudi Arabia,UAE+India,"CleanEnergy, Logistics, Real Estate","Series B, Series A, Growth",1000000,7000000,19,42.6,0,Passive,2023-11-28
+INV0156,Family Office,UAE,India Only,"Retail, Logistics, EdTech",Series B,500000,7000000,35,35.2,1,Active,2021-11-10
+INV0157,Private Equity,UAE,GCC,"Retail, NBFC, EdTech, Real Estate",Seed,10000000,100000000,27,36.8,1,Active,2022-09-15
+INV0158,Angel,India,India Only,"CleanEnergy, Logistics, SaaS","Seed, Series B",5000000,90000000,23,13.2,1,Active,2021-12-04
+INV0159,Sovereign Fund,UAE,UAE Only,SaaS,Series A,10000000,50000000,4,28.0,1,Dormant,2021-11-28
+INV0160,Private Equity,Saudi Arabia,India Only,"Logistics, Fintech, CleanEnergy, SaaS",Series B,10000000,90000000,36,18.1,0,Active,2022-10-23
+INV0161,Private Equity,India,UAE Only,"Logistics, EdTech, CleanEnergy, Manufacturing","Profitable SME, Series A",1000000,14000000,11,16.3,0,Passive,2024-12-23
+INV0162,VC Fund,Saudi Arabia,India Only,"SaaS, EdTech","Growth, Profitable SME, Seed",5000000,50000000,34,38.4,0,Active,2022-04-07
+INV0163,Family Office,UAE,UAE+India,"SaaS, ECommerce, HealthTech",Seed,500000,9500000,39,14.7,1,Active,2022-12-10
+INV0164,Private Equity,UAE,India Only,SaaS,"Series A, Profitable SME",1000000,15000000,1,26.4,1,Active,2023-11-29
+INV0165,Private Equity,India,UAE Only,Logistics,"Profitable SME, Pre-IPO, Growth",500000,6000000,38,42.9,0,Passive,2022-08-05
+INV0166,VC Fund,UAE,GCC,"Fintech, CleanEnergy, Manufacturing, HealthTech",Series B,100000,1500000,8,16.5,0,Active,2021-06-11
+INV0167,Private Equity,India,UAE+India,Logistics,Series B,10000000,190000000,21,44.2,0,Passive,2022-05-29
+INV0168,HNI,Saudi Arabia,Global,"ECommerce, Real Estate, HealthTech",Seed,100000,1900000,4,44.8,0,Active,2022-02-07
+INV0169,Private Equity,UAE,GCC,"HealthTech, AgriTech",Growth,10000000,130000000,11,29.4,0,Active,2024-07-24
+INV0170,Family Office,Saudi Arabia,GCC,"AgriTech, ECommerce, Logistics","Pre-IPO, Growth, Seed",1000000,15000000,0,16.0,0,Dormant,2024-02-03
+INV0171,Angel,UAE,GCC,"Logistics, Retail",Growth,500000,3500000,21,21.1,1,Active,2022-07-17
+INV0172,Angel,UAE,Global,"ECommerce, Manufacturing, NBFC","Pre-IPO, Seed, Series A",500000,3000000,37,24.9,0,Active,2021-09-14
+INV0173,Private Equity,Singapore,UAE+India,"NBFC, HealthTech, EdTech, Real Estate","Series A, Series B, Growth",1000000,17000000,18,20.8,1,Passive,2024-07-04
+INV0174,Family Office,Singapore,India Only,"NBFC, Real Estate, Fintech",Pre-IPO,5000000,40000000,15,19.8,1,Active,2022-09-13
+INV0175,NBFC,India,India Only,"AgriTech, NBFC, Retail","Series A, Pre-IPO",100000,1200000,30,44.0,1,Passive,2024-06-12
+INV0176,VC Fund,Egypt,India Only,"SaaS, ECommerce, Logistics","Series A, Seed",100000,1500000,2,15.4,1,Active,2023-12-29
+INV0177,Private Equity,India,GCC,"SaaS, Manufacturing, NBFC, EdTech","Series B, Seed, Pre-IPO",500000,6000000,22,35.7,1,Active,2021-07-11
+INV0178,VC Fund,UAE,UAE+India,"Fintech, CleanEnergy, AgriTech, Manufacturing","Growth, Seed",500000,3500000,17,10.0,1,Active,2023-10-27
+INV0179,Private Equity,UAE,GCC,"SaaS, NBFC","Growth, Series B, Pre-IPO",500000,4000000,25,30.9,1,Passive,2024-08-05
+INV0180,Private Equity,Egypt,UAE Only,"ECommerce, Logistics, Real Estate, NBFC","Seed, Series B, Profitable SME",1000000,7000000,12,42.1,0,Active,2021-12-12
+INV0181,Angel,UAE,UAE+India,"Fintech, ECommerce","Series A, Seed",5000000,70000000,17,20.1,1,Passive,2024-04-27
+INV0182,VC Fund,India,UAE+India,"Retail, NBFC, SaaS","Profitable SME, Series B, Series A",100000,600000,2,16.5,1,Dormant,2024-04-04
+INV0183,Family Office,India,India Only,"AgriTech, HealthTech",Series B,10000000,80000000,22,32.8,1,Active,2021-11-12
+INV0184,Family Office,India,UAE+India,"Retail, Manufacturing, AgriTech, Real Estate","Series B, Series A, Growth",1000000,10000000,2,34.9,1,Active,2021-12-17
+INV0185,Family Office,India,India Only,"Real Estate, SaaS","Growth, Series A, Pre-IPO",100000,1500000,24,34.1,0,Active,2024-09-11
+INV0186,Angel,UAE,UAE+India,Retail,Profitable SME,5000000,90000000,26,21.2,0,Active,2024-07-02
+INV0187,Private Equity,UAE,UAE+India,"Logistics, Fintech, Manufacturing, EdTech","Seed, Series B",1000000,15000000,26,18.8,0,Active,2024-05-24
+INV0188,Sovereign Fund,India,GCC,"Retail, EdTech, Manufacturing, NBFC",Seed,100000,900000,38,43.5,0,Passive,2022-11-23
+INV0189,Family Office,India,UAE+India,"AgriTech, SaaS, Manufacturing",Seed,1000000,7000000,24,42.3,1,Dormant,2024-02-29
+INV0190,Family Office,India,UAE+India,Real Estate,"Series B, Pre-IPO",100000,600000,23,26.0,0,Dormant,2021-03-26
+INV0191,NBFC,India,GCC,"EdTech, NBFC, Retail","Pre-IPO, Growth",100000,1300000,7,39.6,0,Passive,2021-02-28
+INV0192,Private Equity,UAE,India Only,SaaS,"Seed, Series A",5000000,95000000,8,25.8,0,Passive,2021-06-16
+INV0193,VC Fund,Bahrain,UAE+India,"SaaS, ECommerce","Series B, Seed",10000000,50000000,36,24.9,0,Active,2021-04-04
+INV0194,Angel,India,India Only,Fintech,"Series B, Profitable SME, Seed",5000000,65000000,29,15.5,1,Passive,2024-08-06
+INV0195,Family Office,UAE,India Only,"EdTech, HealthTech, CleanEnergy","Growth, Profitable SME",100000,500000,18,24.9,1,Passive,2024-03-27
+INV0196,Sovereign Fund,India,UAE+India,"NBFC, AgriTech","Growth, Profitable SME, Series B",1000000,19000000,15,28.8,0,Active,2022-06-27
+INV0197,HNI,Saudi Arabia,UAE+India,"CleanEnergy, EdTech",Growth,5000000,90000000,23,10.8,0,Dormant,2024-08-26
+INV0198,Private Equity,Bahrain,India Only,"Manufacturing, HealthTech","Growth, Series B, Pre-IPO",10000000,110000000,20,25.5,0,Active,2022-03-08
+INV0199,Private Equity,UAE,India Only,Logistics,Profitable SME,100000,1000000,35,37.3,0,Passive,2024-03-17
+INV0200,Private Equity,India,India Only,"HealthTech, AgriTech","Seed, Growth",5000000,55000000,39,33.8,0,Passive,2023-05-04

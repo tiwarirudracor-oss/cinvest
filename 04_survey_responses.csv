@@ -1,0 +1,351 @@
+survey_id,company_id,response_date,primary_pain_point,secondary_pain_point,budget_band,urgency_timeline,prev_advisory_firm,satisfaction_current_advisory,nps_score,key_decision_maker,digital_readiness_score,willing_to_retainer,raised_funding_before,target_raise_usd,service_selected
+SV0001,CO0203,2022-10-06,Working capital,Regulatory compliance,$5K-$15K,1-3 months,None,2,4,CEO,4,0,0,2860000,M&A Advisory
+SV0002,CO0495,2023-04-13,Working capital,Valuation clarity,$5K-$15K,1-3 months,International bank,2,4,CEO,5,1,0,760000,Due Diligence
+SV0003,CO0233,2021-09-05,M&A targets,Working capital,$5K-$15K,1-3 months,Local boutique,2,4,Founder,5,1,1,4120000,M&A Advisory
+SV0004,CO0245,2024-01-03,M&A targets,Strategic planning,$50K-$150K,No urgency,None,4,3,Board Member,4,1,1,11760000,Investor Matching
+SV0005,CO0209,2023-01-04,Access to capital,Regulatory compliance,<$5K,6-12 months,None,4,7,COO,1,0,0,3970000,M&A Advisory
+SV0006,CO0248,2022-03-02,Working capital,Access to capital,>$150K,6-12 months,In-house only,3,2,CFO,2,0,1,6740000,Investor Matching
+SV0007,CO0295,2023-07-15,Regulatory compliance,Access to capital,$15K-$50K,Immediate,International bank,2,3,CFO,3,0,0,8960000,Investor Matching
+SV0008,CO0327,2022-09-24,Valuation clarity,Strategic planning,$50K-$150K,6-12 months,None,3,0,Founder,2,1,1,10330000,Fundraising
+SV0009,CO0383,2023-08-07,M&A targets,Investor network,$5K-$15K,6-12 months,None,2,6,Board Member,1,0,1,19470000,M&A Advisory
+SV0010,CO0158,2022-06-27,Regulatory compliance,Access to capital,$5K-$15K,3-6 months,International bank,1,0,CFO,1,0,0,1820000,Fundraising
+SV0011,CO0405,2021-09-03,M&A targets,Regulatory compliance,$50K-$150K,1-3 months,Local boutique,5,1,Founder,5,1,1,1460000,Investor Matching
+SV0012,CO0001,2021-07-05,M&A targets,Strategic planning,<$5K,1-3 months,None,5,10,Founder,2,0,1,6570000,M&A Advisory
+SV0013,CO0217,2021-11-19,Access to capital,Investor network,<$5K,6-12 months,Local boutique,2,6,Board Member,1,0,1,6090000,M&A Advisory
+SV0014,CO0416,2024-11-06,Working capital,M&A targets,$5K-$15K,3-6 months,Big 4,3,0,CFO,2,0,1,6520000,Fundraising
+SV0015,CO0249,2022-09-16,Valuation clarity,Access to capital,>$150K,6-12 months,International bank,4,10,CFO,1,0,0,19840000,Fundraising
+SV0016,CO0392,2024-12-14,Valuation clarity,Investor network,$15K-$50K,3-6 months,None,2,2,CFO,3,0,0,3030000,Investor Matching
+SV0017,CO0069,2024-11-28,Investor network,Regulatory compliance,$15K-$50K,1-3 months,Big 4,2,5,CEO,1,1,0,4590000,Investor Matching
+SV0018,CO0030,2024-05-20,Strategic planning,Access to capital,$15K-$50K,6-12 months,None,4,5,CFO,2,1,0,1130000,M&A Advisory
+SV0019,CO0115,2021-03-24,Working capital,Strategic planning,$5K-$15K,Immediate,In-house only,2,5,COO,5,1,0,25380000,M&A Advisory
+SV0020,CO0008,2022-03-17,Strategic planning,Access to capital,$50K-$150K,3-6 months,International bank,1,10,CEO,2,0,1,2140000,Strategic Advisory
+SV0021,CO0369,2022-11-03,Strategic planning,Access to capital,$5K-$15K,No urgency,Local boutique,4,1,CEO,4,1,0,2200000,Strategic Advisory
+SV0022,CO0275,2021-10-31,Access to capital,M&A targets,$50K-$150K,6-12 months,Local boutique,1,1,CEO,2,0,1,2120000,Due Diligence
+SV0023,CO0492,2021-07-06,Regulatory compliance,Investor network,$5K-$15K,1-3 months,Big 4,5,5,CEO,3,0,1,1570000,Investor Matching
+SV0024,CO0315,2024-12-27,Access to capital,M&A targets,$5K-$15K,1-3 months,In-house only,4,9,Founder,3,1,1,1450000,Due Diligence
+SV0025,CO0439,2022-05-24,Strategic planning,Valuation clarity,$15K-$50K,3-6 months,None,4,4,COO,3,0,1,1780000,Due Diligence
+SV0026,CO0414,2022-12-30,Strategic planning,M&A targets,$5K-$15K,6-12 months,International bank,3,6,Board Member,1,0,1,770000,Fundraising
+SV0027,CO0335,2023-03-23,Regulatory compliance,Valuation clarity,$15K-$50K,3-6 months,None,3,6,CFO,3,1,1,1370000,Fundraising
+SV0028,CO0036,2023-11-18,Valuation clarity,Strategic planning,$5K-$15K,3-6 months,None,4,4,CEO,2,1,1,21060000,Strategic Advisory
+SV0029,CO0311,2021-04-11,Investor network,Strategic planning,$5K-$15K,1-3 months,Big 4,5,7,Board Member,5,0,1,6260000,Due Diligence
+SV0030,CO0044,2024-10-18,Investor network,Valuation clarity,$15K-$50K,6-12 months,International bank,2,9,Founder,3,0,1,7570000,Strategic Advisory
+SV0031,CO0155,2022-09-05,Valuation clarity,Access to capital,$15K-$50K,6-12 months,International bank,3,5,Board Member,2,0,0,9740000,Investor Matching
+SV0032,CO0077,2022-06-17,M&A targets,Working capital,<$5K,No urgency,Local boutique,5,4,CEO,1,1,1,18780000,M&A Advisory
+SV0033,CO0078,2021-12-23,Access to capital,Working capital,$15K-$50K,1-3 months,Big 4,5,3,COO,1,0,1,510000,Fundraising
+SV0034,CO0101,2021-03-05,Investor network,Access to capital,$5K-$15K,6-12 months,In-house only,3,6,Board Member,5,0,0,880000,Investor Matching
+SV0035,CO0438,2023-04-09,Working capital,Regulatory compliance,$5K-$15K,1-3 months,None,2,3,CEO,5,1,0,1340000,Investor Matching
+SV0036,CO0432,2023-07-16,Strategic planning,Working capital,$5K-$15K,3-6 months,International bank,3,4,CEO,2,1,1,1880000,Fundraising
+SV0037,CO0030,2024-02-13,M&A targets,Valuation clarity,>$150K,6-12 months,Local boutique,5,4,CFO,5,0,1,2220000,Fundraising
+SV0038,CO0039,2024-02-01,Regulatory compliance,M&A targets,$15K-$50K,1-3 months,Big 4,1,0,CFO,5,0,0,1920000,Due Diligence
+SV0039,CO0239,2022-05-27,Working capital,Investor network,$5K-$15K,1-3 months,None,3,0,COO,1,1,1,3740000,Strategic Advisory
+SV0040,CO0013,2021-07-13,Investor network,Strategic planning,$15K-$50K,6-12 months,Big 4,5,2,CFO,2,1,1,3110000,Investor Matching
+SV0041,CO0122,2023-08-05,Regulatory compliance,Valuation clarity,$50K-$150K,3-6 months,None,3,10,COO,5,0,1,1460000,Due Diligence
+SV0042,CO0144,2021-07-28,M&A targets,Strategic planning,$5K-$15K,Immediate,None,5,2,Founder,2,0,1,340000,Due Diligence
+SV0043,CO0172,2021-10-14,Regulatory compliance,Strategic planning,$50K-$150K,1-3 months,None,2,1,Founder,3,0,1,1110000,Investor Matching
+SV0044,CO0455,2021-09-06,M&A targets,Valuation clarity,$5K-$15K,3-6 months,None,5,1,CFO,1,0,1,1730000,Investor Matching
+SV0045,CO0368,2021-01-25,Regulatory compliance,M&A targets,$50K-$150K,No urgency,Local boutique,4,5,Founder,1,1,0,2340000,M&A Advisory
+SV0046,CO0247,2021-05-07,Access to capital,Working capital,$15K-$50K,1-3 months,International bank,1,0,Board Member,1,0,1,970000,Strategic Advisory
+SV0047,CO0247,2022-04-01,Investor network,Strategic planning,$5K-$15K,6-12 months,None,5,5,Board Member,4,1,1,1840000,Investor Matching
+SV0048,CO0411,2021-09-25,Investor network,Regulatory compliance,$5K-$15K,Immediate,Big 4,3,4,Board Member,2,1,1,970000,Fundraising
+SV0049,CO0045,2022-02-10,Strategic planning,Valuation clarity,>$150K,1-3 months,Big 4,3,5,Founder,3,1,1,2650000,M&A Advisory
+SV0050,CO0253,2023-04-01,M&A targets,Access to capital,$50K-$150K,1-3 months,Big 4,5,4,Board Member,5,0,0,1030000,Strategic Advisory
+SV0051,CO0375,2023-02-02,Regulatory compliance,Access to capital,$15K-$50K,6-12 months,International bank,4,6,COO,3,1,1,1280000,Fundraising
+SV0052,CO0291,2024-11-06,Valuation clarity,Investor network,<$5K,1-3 months,Local boutique,5,0,CEO,2,0,0,810000,Fundraising
+SV0053,CO0207,2024-07-14,Strategic planning,Access to capital,$5K-$15K,6-12 months,International bank,2,2,CFO,1,1,0,2570000,Strategic Advisory
+SV0054,CO0412,2024-08-13,Working capital,Regulatory compliance,$5K-$15K,3-6 months,Big 4,4,5,COO,4,1,0,1260000,M&A Advisory
+SV0055,CO0483,2021-06-22,Working capital,Strategic planning,<$5K,No urgency,Local boutique,5,0,Board Member,2,0,0,7430000,Fundraising
+SV0056,CO0007,2024-04-07,Strategic planning,M&A targets,$15K-$50K,6-12 months,Big 4,1,10,CEO,2,0,1,4500000,Due Diligence
+SV0057,CO0446,2024-04-15,Investor network,M&A targets,$50K-$150K,6-12 months,International bank,4,10,CFO,5,0,0,2800000,Strategic Advisory
+SV0058,CO0242,2022-06-15,Regulatory compliance,M&A targets,$15K-$50K,6-12 months,In-house only,5,6,COO,3,1,0,1350000,Strategic Advisory
+SV0059,CO0110,2021-06-03,Regulatory compliance,Investor network,$5K-$15K,3-6 months,Local boutique,1,3,CFO,3,1,1,4390000,Investor Matching
+SV0060,CO0114,2021-02-14,Access to capital,Investor network,$15K-$50K,6-12 months,International bank,5,2,Founder,5,1,0,5990000,M&A Advisory
+SV0061,CO0307,2021-05-13,Working capital,Valuation clarity,>$150K,1-3 months,None,2,9,Board Member,4,1,0,3460000,Due Diligence
+SV0062,CO0302,2022-02-09,Valuation clarity,M&A targets,$15K-$50K,Immediate,In-house only,3,8,COO,1,0,0,14910000,Due Diligence
+SV0063,CO0276,2024-08-15,Investor network,Strategic planning,$15K-$50K,3-6 months,None,5,0,COO,1,1,0,4750000,Investor Matching
+SV0064,CO0096,2023-06-28,Access to capital,Valuation clarity,>$150K,1-3 months,None,4,7,CEO,4,1,0,7480000,Fundraising
+SV0065,CO0294,2021-09-21,Valuation clarity,Investor network,$50K-$150K,1-3 months,None,5,0,CEO,5,1,0,3430000,Fundraising
+SV0066,CO0189,2021-07-08,Investor network,Working capital,<$5K,3-6 months,In-house only,5,4,CEO,2,1,1,5900000,Due Diligence
+SV0067,CO0360,2022-11-11,Access to capital,Working capital,$5K-$15K,1-3 months,In-house only,5,9,CFO,3,1,0,1350000,M&A Advisory
+SV0068,CO0288,2021-09-08,Valuation clarity,Working capital,>$150K,3-6 months,In-house only,5,7,Board Member,2,1,0,1900000,Fundraising
+SV0069,CO0154,2021-03-29,Investor network,Strategic planning,$15K-$50K,Immediate,International bank,4,5,CFO,3,1,1,4250000,Strategic Advisory
+SV0070,CO0058,2023-08-03,Working capital,Regulatory compliance,<$5K,No urgency,Big 4,4,6,Board Member,2,1,1,4220000,Investor Matching
+SV0071,CO0423,2021-04-14,Valuation clarity,M&A targets,$15K-$50K,No urgency,In-house only,5,10,COO,5,1,1,4980000,M&A Advisory
+SV0072,CO0404,2021-12-11,Regulatory compliance,Strategic planning,$15K-$50K,No urgency,In-house only,3,7,CFO,5,1,1,9020000,Fundraising
+SV0073,CO0338,2024-03-21,M&A targets,Access to capital,>$150K,1-3 months,Big 4,5,5,CFO,4,1,0,720000,Due Diligence
+SV0074,CO0050,2023-06-07,M&A targets,Strategic planning,$5K-$15K,3-6 months,None,4,10,CFO,2,1,1,1130000,Investor Matching
+SV0075,CO0207,2023-03-20,Regulatory compliance,Investor network,$15K-$50K,No urgency,Local boutique,2,5,Founder,2,0,0,3770000,Fundraising
+SV0076,CO0052,2023-10-14,Valuation clarity,Investor network,$50K-$150K,No urgency,In-house only,5,10,Board Member,4,0,0,1450000,Due Diligence
+SV0077,CO0342,2021-03-02,Regulatory compliance,Working capital,$5K-$15K,6-12 months,In-house only,5,5,Board Member,4,0,1,87920000,Fundraising
+SV0078,CO0371,2023-02-23,M&A targets,Working capital,<$5K,1-3 months,In-house only,5,4,CFO,5,1,1,5020000,Investor Matching
+SV0079,CO0150,2024-10-31,M&A targets,Working capital,>$150K,3-6 months,In-house only,5,7,Founder,5,1,1,2770000,Strategic Advisory
+SV0080,CO0053,2023-05-24,Valuation clarity,Investor network,$15K-$50K,6-12 months,In-house only,1,1,CFO,2,1,1,1790000,Strategic Advisory
+SV0081,CO0213,2021-12-20,M&A targets,Strategic planning,$15K-$50K,1-3 months,International bank,5,6,Board Member,5,0,0,1860000,Due Diligence
+SV0082,CO0066,2022-12-26,Working capital,M&A targets,$15K-$50K,3-6 months,Local boutique,4,3,COO,5,0,1,3090000,Strategic Advisory
+SV0083,CO0232,2022-03-16,Regulatory compliance,Investor network,<$5K,6-12 months,None,4,0,Founder,2,0,1,3360000,Investor Matching
+SV0084,CO0373,2022-01-19,Working capital,Strategic planning,>$150K,6-12 months,Local boutique,1,4,Founder,4,0,1,1900000,Due Diligence
+SV0085,CO0299,2022-07-18,Working capital,Access to capital,$5K-$15K,3-6 months,Big 4,5,2,CFO,2,1,1,2280000,Fundraising
+SV0086,CO0338,2022-07-28,Valuation clarity,Investor network,$5K-$15K,3-6 months,In-house only,3,3,COO,1,0,1,11510000,M&A Advisory
+SV0087,CO0151,2023-07-03,Regulatory compliance,M&A targets,$5K-$15K,No urgency,Big 4,5,6,Board Member,2,1,0,11980000,Fundraising
+SV0088,CO0205,2021-11-01,Valuation clarity,Regulatory compliance,$5K-$15K,3-6 months,None,4,4,CEO,1,1,1,3860000,Investor Matching
+SV0089,CO0320,2021-03-12,M&A targets,Access to capital,$50K-$150K,6-12 months,None,2,3,Board Member,2,1,0,780000,Due Diligence
+SV0090,CO0255,2024-06-11,Investor network,Valuation clarity,$50K-$150K,6-12 months,Local boutique,2,0,Board Member,1,1,0,5140000,Fundraising
+SV0091,CO0489,2024-06-22,Valuation clarity,Regulatory compliance,>$150K,6-12 months,Big 4,3,5,COO,1,0,1,14200000,Due Diligence
+SV0092,CO0137,2024-06-17,Valuation clarity,Strategic planning,$5K-$15K,6-12 months,None,5,10,Founder,2,0,0,11800000,Strategic Advisory
+SV0093,CO0369,2022-05-19,Investor network,Working capital,$15K-$50K,3-6 months,None,1,9,Board Member,5,1,1,6250000,M&A Advisory
+SV0094,CO0135,2024-08-18,Strategic planning,Access to capital,$15K-$50K,3-6 months,Big 4,5,5,Founder,3,1,0,12440000,Investor Matching
+SV0095,CO0425,2022-08-28,M&A targets,Working capital,$50K-$150K,3-6 months,None,3,6,COO,5,0,1,3160000,Fundraising
+SV0096,CO0054,2023-10-19,Regulatory compliance,Access to capital,$15K-$50K,Immediate,None,3,0,COO,1,0,0,5620000,M&A Advisory
+SV0097,CO0065,2023-04-24,Access to capital,M&A targets,$5K-$15K,1-3 months,Big 4,3,3,CFO,2,0,0,1520000,Investor Matching
+SV0098,CO0002,2024-02-02,Strategic planning,Investor network,$5K-$15K,1-3 months,Big 4,2,8,CEO,2,0,0,4020000,Investor Matching
+SV0099,CO0132,2023-09-09,Investor network,Valuation clarity,$5K-$15K,6-12 months,Big 4,5,9,COO,2,1,1,11340000,Strategic Advisory
+SV0100,CO0334,2021-05-05,Access to capital,Regulatory compliance,$15K-$50K,1-3 months,None,5,5,COO,2,1,0,1660000,Due Diligence
+SV0101,CO0032,2021-06-29,M&A targets,Working capital,>$150K,Immediate,In-house only,1,1,Founder,3,0,1,1270000,Due Diligence
+SV0102,CO0356,2022-07-27,Valuation clarity,Regulatory compliance,$5K-$15K,Immediate,Big 4,3,3,COO,4,1,0,3310000,M&A Advisory
+SV0103,CO0386,2023-02-24,Valuation clarity,M&A targets,<$5K,3-6 months,None,3,5,Board Member,1,1,0,2390000,Strategic Advisory
+SV0104,CO0360,2021-10-09,Strategic planning,Regulatory compliance,<$5K,Immediate,None,4,3,CFO,3,0,0,5740000,Investor Matching
+SV0105,CO0498,2023-05-09,M&A targets,Strategic planning,$50K-$150K,3-6 months,None,4,9,CFO,5,1,1,1910000,Strategic Advisory
+SV0106,CO0243,2022-02-13,Regulatory compliance,Valuation clarity,$5K-$15K,Immediate,None,2,6,Board Member,4,1,1,16730000,Strategic Advisory
+SV0107,CO0192,2024-08-09,Regulatory compliance,M&A targets,$5K-$15K,6-12 months,None,5,2,COO,4,1,1,830000,M&A Advisory
+SV0108,CO0142,2023-12-13,Working capital,Access to capital,$5K-$15K,No urgency,Local boutique,1,5,CEO,2,1,0,10510000,Due Diligence
+SV0109,CO0148,2022-05-26,M&A targets,Access to capital,$15K-$50K,No urgency,Local boutique,1,3,COO,3,1,1,1400000,Strategic Advisory
+SV0110,CO0089,2024-07-15,M&A targets,Working capital,$15K-$50K,1-3 months,Big 4,3,2,CFO,5,0,1,500000,Strategic Advisory
+SV0111,CO0490,2024-01-19,Working capital,Access to capital,$15K-$50K,3-6 months,International bank,1,2,CEO,2,1,0,3810000,Strategic Advisory
+SV0112,CO0049,2021-02-09,M&A targets,Access to capital,$5K-$15K,3-6 months,None,3,1,Founder,2,1,1,2330000,Fundraising
+SV0113,CO0136,2023-02-23,M&A targets,Investor network,$15K-$50K,1-3 months,In-house only,5,10,Founder,1,0,1,990000,Strategic Advisory
+SV0114,CO0476,2024-12-31,Working capital,Valuation clarity,<$5K,1-3 months,None,1,2,COO,4,1,0,560000,Strategic Advisory
+SV0115,CO0191,2023-01-06,Strategic planning,Access to capital,<$5K,Immediate,Local boutique,3,9,COO,5,1,0,2980000,Investor Matching
+SV0116,CO0430,2023-09-10,M&A targets,Access to capital,$15K-$50K,6-12 months,None,5,0,CEO,4,0,0,7960000,Fundraising
+SV0117,CO0149,2024-01-21,M&A targets,Regulatory compliance,$5K-$15K,1-3 months,In-house only,5,2,CEO,3,1,1,5380000,Strategic Advisory
+SV0118,CO0087,2023-09-20,Valuation clarity,Working capital,$15K-$50K,3-6 months,Big 4,3,8,COO,1,0,0,3180000,Strategic Advisory
+SV0119,CO0416,2022-12-06,Access to capital,M&A targets,<$5K,3-6 months,None,3,3,CFO,2,1,0,4840000,M&A Advisory
+SV0120,CO0008,2024-03-04,Regulatory compliance,Strategic planning,<$5K,3-6 months,Local boutique,2,2,Founder,1,0,0,2920000,M&A Advisory
+SV0121,CO0223,2023-10-26,Access to capital,Strategic planning,$50K-$150K,6-12 months,None,5,7,CEO,2,1,0,720000,Fundraising
+SV0122,CO0357,2022-10-21,Strategic planning,Regulatory compliance,$15K-$50K,3-6 months,International bank,3,0,CFO,1,0,0,720000,Investor Matching
+SV0123,CO0016,2023-03-07,Strategic planning,M&A targets,$15K-$50K,3-6 months,Local boutique,5,4,COO,2,0,1,2450000,Fundraising
+SV0124,CO0296,2022-07-08,Valuation clarity,Regulatory compliance,$50K-$150K,3-6 months,None,1,0,Board Member,4,0,0,2550000,Fundraising
+SV0125,CO0106,2022-01-04,Investor network,Strategic planning,$15K-$50K,Immediate,Big 4,4,6,CEO,4,1,1,7030000,M&A Advisory
+SV0126,CO0283,2021-02-23,Access to capital,Regulatory compliance,$50K-$150K,1-3 months,None,4,4,Board Member,4,1,0,6400000,M&A Advisory
+SV0127,CO0104,2022-10-16,Investor network,Access to capital,$15K-$50K,No urgency,Local boutique,3,1,CFO,4,1,1,5490000,Investor Matching
+SV0128,CO0361,2024-05-07,Valuation clarity,Strategic planning,$5K-$15K,No urgency,None,3,0,Founder,1,1,1,2270000,Strategic Advisory
+SV0129,CO0146,2022-03-25,Regulatory compliance,Working capital,$5K-$15K,6-12 months,Local boutique,5,10,CFO,2,1,0,750000,Investor Matching
+SV0130,CO0035,2021-03-02,Investor network,Working capital,$15K-$50K,1-3 months,In-house only,3,6,Founder,4,0,1,4530000,Strategic Advisory
+SV0131,CO0113,2022-07-30,Valuation clarity,Working capital,$5K-$15K,Immediate,None,5,0,CFO,1,1,1,5070000,Due Diligence
+SV0132,CO0308,2021-04-30,Strategic planning,Valuation clarity,$5K-$15K,1-3 months,In-house only,3,2,CEO,2,0,1,280000,M&A Advisory
+SV0133,CO0399,2023-08-25,M&A targets,Investor network,$5K-$15K,6-12 months,Local boutique,5,10,CEO,1,1,1,1300000,Due Diligence
+SV0134,CO0447,2023-12-21,Regulatory compliance,Access to capital,<$5K,6-12 months,None,3,5,Board Member,4,1,1,1500000,Due Diligence
+SV0135,CO0053,2023-01-03,Working capital,Investor network,<$5K,6-12 months,Big 4,2,5,CFO,3,0,1,3380000,M&A Advisory
+SV0136,CO0347,2024-04-11,Strategic planning,Access to capital,<$5K,3-6 months,Local boutique,5,6,CFO,1,0,1,1340000,Due Diligence
+SV0137,CO0081,2022-04-22,Strategic planning,Regulatory compliance,<$5K,Immediate,Big 4,2,10,Board Member,4,1,1,2890000,Fundraising
+SV0138,CO0104,2021-11-23,M&A targets,Valuation clarity,$5K-$15K,Immediate,None,2,10,COO,5,0,1,2430000,Strategic Advisory
+SV0139,CO0322,2021-07-25,Regulatory compliance,Valuation clarity,$15K-$50K,Immediate,None,2,0,CFO,2,0,1,2560000,Investor Matching
+SV0140,CO0369,2022-05-23,Regulatory compliance,Working capital,$5K-$15K,3-6 months,International bank,2,6,CFO,4,0,1,1470000,M&A Advisory
+SV0141,CO0242,2024-09-07,Access to capital,M&A targets,$50K-$150K,1-3 months,Local boutique,1,1,CFO,5,1,1,1580000,Fundraising
+SV0142,CO0031,2022-05-09,Regulatory compliance,M&A targets,$50K-$150K,6-12 months,Local boutique,4,5,COO,1,1,0,1020000,Investor Matching
+SV0143,CO0317,2022-06-30,Access to capital,Working capital,$15K-$50K,3-6 months,None,1,7,CEO,1,0,1,4390000,Investor Matching
+SV0144,CO0192,2023-12-29,Investor network,Strategic planning,$15K-$50K,1-3 months,International bank,3,4,Board Member,5,0,0,5310000,Investor Matching
+SV0145,CO0357,2021-04-25,Strategic planning,Working capital,$5K-$15K,1-3 months,In-house only,3,9,COO,5,1,1,1390000,Due Diligence
+SV0146,CO0361,2022-03-26,Regulatory compliance,Strategic planning,<$5K,Immediate,None,4,2,Founder,2,1,0,13730000,Due Diligence
+SV0147,CO0233,2024-03-25,Strategic planning,Working capital,$50K-$150K,6-12 months,None,4,10,Founder,1,0,0,2190000,Due Diligence
+SV0148,CO0098,2023-03-07,Investor network,Access to capital,<$5K,3-6 months,In-house only,4,7,COO,5,0,1,13860000,Due Diligence
+SV0149,CO0034,2022-12-28,Regulatory compliance,Investor network,>$150K,1-3 months,International bank,2,7,COO,3,1,0,1580000,Fundraising
+SV0150,CO0243,2021-12-22,Strategic planning,Working capital,$15K-$50K,6-12 months,Local boutique,1,3,CEO,3,1,1,400000,Due Diligence
+SV0151,CO0439,2021-12-27,Strategic planning,M&A targets,$5K-$15K,3-6 months,In-house only,3,7,Founder,5,1,1,4490000,M&A Advisory
+SV0152,CO0059,2022-04-30,Access to capital,Strategic planning,$15K-$50K,3-6 months,Local boutique,1,4,Board Member,2,1,0,3850000,Investor Matching
+SV0153,CO0259,2024-04-28,Strategic planning,Valuation clarity,$15K-$50K,6-12 months,None,1,10,CFO,1,0,0,3100000,Fundraising
+SV0154,CO0017,2022-10-14,Working capital,Access to capital,<$5K,6-12 months,Local boutique,1,4,CFO,3,0,1,1580000,Due Diligence
+SV0155,CO0078,2024-11-29,M&A targets,Valuation clarity,$5K-$15K,3-6 months,Local boutique,4,2,CEO,5,0,0,2900000,Investor Matching
+SV0156,CO0206,2023-01-05,Regulatory compliance,Access to capital,$15K-$50K,1-3 months,In-house only,4,6,CEO,5,0,1,1800000,Fundraising
+SV0157,CO0302,2024-04-26,Valuation clarity,Regulatory compliance,$15K-$50K,1-3 months,None,3,10,Founder,4,1,1,2220000,Investor Matching
+SV0158,CO0166,2021-02-27,M&A targets,Access to capital,$5K-$15K,6-12 months,Local boutique,3,10,Board Member,5,1,0,6960000,Fundraising
+SV0159,CO0291,2024-12-11,Access to capital,Regulatory compliance,$5K-$15K,3-6 months,International bank,3,8,Board Member,2,1,0,3610000,Strategic Advisory
+SV0160,CO0385,2024-12-05,Working capital,Regulatory compliance,$50K-$150K,6-12 months,None,1,8,COO,3,0,1,5520000,Fundraising
+SV0161,CO0112,2022-12-22,Strategic planning,Regulatory compliance,$15K-$50K,6-12 months,Big 4,4,0,CEO,4,1,1,2380000,Due Diligence
+SV0162,CO0413,2024-03-08,Working capital,Access to capital,$15K-$50K,No urgency,In-house only,2,0,CFO,3,1,0,2130000,Investor Matching
+SV0163,CO0388,2024-02-29,Strategic planning,Investor network,>$150K,1-3 months,Big 4,1,9,CFO,3,0,0,950000,Investor Matching
+SV0164,CO0317,2021-10-19,Valuation clarity,Strategic planning,$5K-$15K,1-3 months,Local boutique,5,10,Founder,2,1,1,2070000,Investor Matching
+SV0165,CO0353,2024-02-28,Investor network,Strategic planning,$15K-$50K,1-3 months,In-house only,1,4,CFO,5,0,1,110000,M&A Advisory
+SV0166,CO0145,2022-01-21,Strategic planning,Working capital,$50K-$150K,6-12 months,None,4,0,Board Member,2,0,0,1660000,M&A Advisory
+SV0167,CO0156,2023-10-06,Access to capital,Strategic planning,$50K-$150K,1-3 months,In-house only,5,3,Board Member,5,1,1,2760000,Due Diligence
+SV0168,CO0178,2024-01-16,M&A targets,Valuation clarity,$5K-$15K,1-3 months,Local boutique,1,0,CEO,4,1,1,5270000,Strategic Advisory
+SV0169,CO0346,2022-09-25,Investor network,Access to capital,$5K-$15K,Immediate,Big 4,4,1,Founder,2,0,1,2290000,M&A Advisory
+SV0170,CO0136,2021-12-26,Investor network,Access to capital,$15K-$50K,1-3 months,Big 4,4,1,CFO,2,0,1,4250000,Fundraising
+SV0171,CO0418,2023-10-02,Strategic planning,Working capital,$5K-$15K,Immediate,In-house only,2,3,CEO,1,1,1,340000,Due Diligence
+SV0172,CO0315,2021-03-19,Strategic planning,Valuation clarity,$50K-$150K,1-3 months,None,1,7,COO,2,1,1,2830000,Strategic Advisory
+SV0173,CO0018,2021-07-04,Access to capital,Strategic planning,<$5K,3-6 months,None,4,1,COO,1,1,1,560000,Fundraising
+SV0174,CO0351,2021-04-26,M&A targets,Access to capital,$5K-$15K,Immediate,None,3,8,CFO,5,0,1,900000,Investor Matching
+SV0175,CO0443,2022-04-22,Strategic planning,Valuation clarity,<$5K,Immediate,None,4,8,CFO,5,0,1,2490000,M&A Advisory
+SV0176,CO0155,2024-05-17,Access to capital,Regulatory compliance,$15K-$50K,6-12 months,Big 4,2,1,CFO,5,0,1,10750000,Fundraising
+SV0177,CO0272,2022-03-25,Strategic planning,Investor network,$50K-$150K,6-12 months,In-house only,4,0,Board Member,1,0,0,4350000,Strategic Advisory
+SV0178,CO0266,2021-02-10,Strategic planning,Regulatory compliance,$15K-$50K,1-3 months,In-house only,1,9,CFO,5,0,0,3060000,Due Diligence
+SV0179,CO0360,2023-12-15,Valuation clarity,Working capital,>$150K,Immediate,None,1,9,COO,3,0,1,2940000,Fundraising
+SV0180,CO0332,2023-09-06,Valuation clarity,Strategic planning,<$5K,6-12 months,Big 4,5,8,CFO,2,1,0,1470000,Due Diligence
+SV0181,CO0406,2021-01-02,Strategic planning,Investor network,<$5K,1-3 months,Local boutique,1,1,Founder,1,0,1,1740000,Investor Matching
+SV0182,CO0016,2022-11-11,Working capital,Valuation clarity,$50K-$150K,Immediate,None,5,7,COO,5,1,0,4600000,Strategic Advisory
+SV0183,CO0012,2024-06-11,Regulatory compliance,Investor network,$50K-$150K,1-3 months,International bank,3,2,Founder,3,0,1,750000,Strategic Advisory
+SV0184,CO0075,2022-02-17,Working capital,Valuation clarity,$50K-$150K,Immediate,In-house only,2,0,COO,2,1,0,5430000,M&A Advisory
+SV0185,CO0212,2021-09-25,Investor network,Strategic planning,$50K-$150K,3-6 months,In-house only,3,10,CEO,2,0,1,2030000,Strategic Advisory
+SV0186,CO0179,2022-11-29,Strategic planning,Investor network,$5K-$15K,6-12 months,Big 4,5,0,COO,5,1,1,6850000,Fundraising
+SV0187,CO0129,2021-12-30,Working capital,Strategic planning,$5K-$15K,6-12 months,Big 4,4,9,COO,3,0,0,7840000,Fundraising
+SV0188,CO0283,2022-10-25,Regulatory compliance,Access to capital,$50K-$150K,3-6 months,None,4,1,Founder,1,1,1,560000,Fundraising
+SV0189,CO0195,2021-05-02,Working capital,Access to capital,$5K-$15K,1-3 months,Big 4,3,6,Founder,5,1,0,1680000,Investor Matching
+SV0190,CO0268,2021-02-14,M&A targets,Investor network,$5K-$15K,3-6 months,Big 4,4,5,COO,2,1,0,1280000,Strategic Advisory
+SV0191,CO0030,2021-10-30,Valuation clarity,Regulatory compliance,$15K-$50K,1-3 months,In-house only,5,10,COO,2,0,0,490000,Strategic Advisory
+SV0192,CO0009,2024-04-16,Regulatory compliance,Investor network,$5K-$15K,1-3 months,In-house only,2,1,Board Member,2,1,0,1070000,Fundraising
+SV0193,CO0309,2024-12-14,Valuation clarity,Working capital,$50K-$150K,3-6 months,In-house only,1,3,CEO,5,1,1,34460000,M&A Advisory
+SV0194,CO0445,2021-10-18,Strategic planning,Access to capital,<$5K,6-12 months,In-house only,5,1,CEO,4,0,0,5520000,M&A Advisory
+SV0195,CO0310,2021-08-16,Valuation clarity,M&A targets,$50K-$150K,1-3 months,None,5,0,CFO,4,1,1,20410000,Strategic Advisory
+SV0196,CO0165,2023-12-14,Strategic planning,Working capital,$15K-$50K,6-12 months,Local boutique,1,2,COO,4,1,0,6870000,Strategic Advisory
+SV0197,CO0193,2023-01-18,Valuation clarity,Working capital,$15K-$50K,1-3 months,None,1,3,COO,3,1,1,1430000,Due Diligence
+SV0198,CO0426,2021-05-29,Strategic planning,Working capital,$15K-$50K,1-3 months,None,2,9,COO,5,1,0,2050000,Strategic Advisory
+SV0199,CO0305,2023-02-05,Access to capital,Valuation clarity,$5K-$15K,Immediate,Local boutique,2,4,COO,2,1,1,5400000,Fundraising
+SV0200,CO0260,2024-12-13,Regulatory compliance,M&A targets,$15K-$50K,3-6 months,Local boutique,2,4,CEO,3,1,1,4650000,Investor Matching
+SV0201,CO0192,2024-09-18,Investor network,Regulatory compliance,$15K-$50K,6-12 months,Local boutique,4,6,Founder,4,0,1,1680000,Strategic Advisory
+SV0202,CO0079,2023-03-22,Regulatory compliance,Working capital,$15K-$50K,3-6 months,None,5,9,Board Member,1,1,0,660000,Strategic Advisory
+SV0203,CO0179,2024-04-15,Investor network,M&A targets,$5K-$15K,1-3 months,None,1,7,Founder,3,1,1,80350000,Fundraising
+SV0204,CO0091,2021-07-26,Regulatory compliance,Access to capital,<$5K,Immediate,None,5,8,Founder,3,1,0,2610000,Due Diligence
+SV0205,CO0456,2022-11-21,Regulatory compliance,M&A targets,<$5K,3-6 months,None,5,6,CEO,5,1,0,2170000,Strategic Advisory
+SV0206,CO0444,2022-09-11,Valuation clarity,Working capital,$15K-$50K,1-3 months,None,2,4,Board Member,3,0,1,3360000,M&A Advisory
+SV0207,CO0215,2022-10-23,Investor network,Valuation clarity,<$5K,1-3 months,Local boutique,2,8,COO,5,0,1,2350000,M&A Advisory
+SV0208,CO0079,2021-10-07,Working capital,Investor network,$50K-$150K,No urgency,International bank,5,7,CEO,1,0,1,3390000,M&A Advisory
+SV0209,CO0475,2021-11-19,Investor network,Valuation clarity,$15K-$50K,6-12 months,Big 4,2,9,CEO,2,0,1,10870000,Investor Matching
+SV0210,CO0415,2023-06-14,Investor network,M&A targets,$50K-$150K,1-3 months,Local boutique,4,8,Board Member,2,0,0,2650000,Investor Matching
+SV0211,CO0103,2024-08-02,Regulatory compliance,Access to capital,$50K-$150K,Immediate,None,1,9,CFO,4,1,0,940000,Strategic Advisory
+SV0212,CO0111,2023-09-25,Investor network,Working capital,<$5K,Immediate,In-house only,5,7,CEO,4,0,0,2550000,Strategic Advisory
+SV0213,CO0456,2024-08-22,Strategic planning,Working capital,$50K-$150K,3-6 months,None,1,5,Founder,1,1,1,1890000,Strategic Advisory
+SV0214,CO0478,2022-10-12,Regulatory compliance,Strategic planning,$15K-$50K,6-12 months,International bank,4,3,Founder,2,1,1,12460000,Investor Matching
+SV0215,CO0314,2021-12-23,Working capital,Access to capital,$50K-$150K,6-12 months,In-house only,2,8,COO,4,0,0,9680000,Strategic Advisory
+SV0216,CO0247,2024-12-19,Strategic planning,Valuation clarity,$50K-$150K,1-3 months,In-house only,3,8,CEO,3,0,1,3340000,Fundraising
+SV0217,CO0234,2024-02-25,Access to capital,Strategic planning,<$5K,Immediate,None,4,9,COO,5,1,1,840000,Due Diligence
+SV0218,CO0082,2024-11-21,Valuation clarity,Working capital,$5K-$15K,No urgency,Local boutique,3,9,CEO,4,1,1,880000,M&A Advisory
+SV0219,CO0132,2024-06-10,Strategic planning,Access to capital,$15K-$50K,No urgency,None,1,8,Board Member,1,1,1,3050000,M&A Advisory
+SV0220,CO0495,2023-01-01,Strategic planning,Access to capital,$15K-$50K,3-6 months,None,5,9,CEO,2,1,1,4200000,Fundraising
+SV0221,CO0235,2022-04-03,M&A targets,Access to capital,$5K-$15K,Immediate,None,2,2,CFO,1,1,1,2060000,Strategic Advisory
+SV0222,CO0278,2024-09-25,Access to capital,Investor network,$5K-$15K,3-6 months,In-house only,4,10,Founder,5,1,0,1860000,Investor Matching
+SV0223,CO0387,2024-04-21,Investor network,Access to capital,$5K-$15K,6-12 months,In-house only,2,2,Board Member,5,1,0,1660000,Strategic Advisory
+SV0224,CO0335,2021-12-26,Strategic planning,M&A targets,$15K-$50K,3-6 months,None,3,10,Founder,1,1,0,2930000,Strategic Advisory
+SV0225,CO0099,2023-02-14,Working capital,Investor network,>$150K,6-12 months,Big 4,3,5,COO,4,1,1,280000,M&A Advisory
+SV0226,CO0431,2022-09-21,Valuation clarity,Regulatory compliance,$50K-$150K,Immediate,In-house only,5,5,Board Member,4,0,1,1000000,M&A Advisory
+SV0227,CO0038,2024-11-11,Working capital,Valuation clarity,$5K-$15K,Immediate,Big 4,3,5,CFO,2,1,1,1600000,Investor Matching
+SV0228,CO0161,2022-08-27,Strategic planning,Valuation clarity,<$5K,Immediate,Big 4,5,4,Founder,2,1,0,10040000,M&A Advisory
+SV0229,CO0462,2021-09-18,Valuation clarity,Access to capital,$5K-$15K,No urgency,Big 4,4,4,CEO,3,1,1,1330000,Strategic Advisory
+SV0230,CO0432,2021-12-30,Valuation clarity,Working capital,$15K-$50K,3-6 months,International bank,5,1,CEO,3,0,1,3590000,Fundraising
+SV0231,CO0449,2021-01-04,Valuation clarity,Strategic planning,$50K-$150K,6-12 months,Big 4,3,6,CEO,2,0,1,3760000,Investor Matching
+SV0232,CO0117,2024-12-08,Working capital,Strategic planning,$5K-$15K,Immediate,International bank,1,3,Board Member,3,0,1,10980000,Fundraising
+SV0233,CO0241,2024-03-19,Investor network,Strategic planning,$15K-$50K,No urgency,Big 4,5,2,CFO,1,0,1,10600000,Strategic Advisory
+SV0234,CO0026,2023-03-13,Strategic planning,M&A targets,$50K-$150K,6-12 months,None,2,7,CFO,4,0,0,2830000,Investor Matching
+SV0235,CO0136,2024-03-08,Valuation clarity,Investor network,$50K-$150K,1-3 months,None,1,3,CFO,3,1,0,1860000,Fundraising
+SV0236,CO0050,2021-03-08,Strategic planning,Investor network,$5K-$15K,6-12 months,None,5,10,Founder,3,0,0,1540000,Investor Matching
+SV0237,CO0464,2022-01-08,Strategic planning,Valuation clarity,<$5K,1-3 months,Big 4,2,3,Board Member,1,0,1,2360000,Strategic Advisory
+SV0238,CO0294,2024-05-18,Working capital,M&A targets,$5K-$15K,1-3 months,None,1,7,CEO,5,0,0,1940000,Investor Matching
+SV0239,CO0394,2022-10-14,M&A targets,Strategic planning,$15K-$50K,1-3 months,International bank,5,0,Founder,2,1,1,5220000,Strategic Advisory
+SV0240,CO0298,2024-06-06,M&A targets,Investor network,>$150K,No urgency,Big 4,4,8,CFO,1,0,1,4570000,Investor Matching
+SV0241,CO0293,2022-03-29,Valuation clarity,M&A targets,<$5K,No urgency,International bank,2,6,CEO,5,0,0,5420000,Investor Matching
+SV0242,CO0154,2024-08-02,Regulatory compliance,Access to capital,<$5K,1-3 months,In-house only,4,1,Board Member,1,1,1,10570000,M&A Advisory
+SV0243,CO0220,2024-03-04,Working capital,Regulatory compliance,$50K-$150K,6-12 months,International bank,3,10,COO,4,1,0,19330000,Strategic Advisory
+SV0244,CO0140,2021-08-02,Investor network,M&A targets,$15K-$50K,3-6 months,In-house only,5,5,CFO,1,0,0,3400000,Due Diligence
+SV0245,CO0468,2023-10-14,Working capital,Access to capital,>$150K,6-12 months,Local boutique,5,7,CFO,1,0,1,9010000,Investor Matching
+SV0246,CO0049,2021-10-16,M&A targets,Working capital,$5K-$15K,1-3 months,None,2,10,CFO,4,0,0,2110000,Fundraising
+SV0247,CO0142,2022-11-10,M&A targets,Strategic planning,$5K-$15K,3-6 months,In-house only,5,4,CFO,2,1,1,9810000,M&A Advisory
+SV0248,CO0046,2021-06-09,M&A targets,Access to capital,$5K-$15K,3-6 months,In-house only,3,5,CEO,5,0,1,8670000,M&A Advisory
+SV0249,CO0163,2022-05-03,Access to capital,Investor network,<$5K,Immediate,In-house only,5,9,Board Member,3,1,1,8220000,Investor Matching
+SV0250,CO0285,2022-12-12,Working capital,Valuation clarity,$15K-$50K,1-3 months,Local boutique,1,7,Founder,2,0,1,3300000,Due Diligence
+SV0251,CO0268,2022-10-17,Strategic planning,Regulatory compliance,$5K-$15K,3-6 months,Local boutique,4,5,CEO,1,1,0,1540000,M&A Advisory
+SV0252,CO0116,2021-12-10,Strategic planning,Access to capital,<$5K,1-3 months,None,3,8,Board Member,3,0,1,740000,Strategic Advisory
+SV0253,CO0082,2024-07-26,Access to capital,Regulatory compliance,$50K-$150K,No urgency,Local boutique,3,8,Founder,4,0,0,2880000,Investor Matching
+SV0254,CO0044,2021-07-01,M&A targets,Access to capital,$5K-$15K,Immediate,None,4,8,CFO,2,1,0,13900000,Investor Matching
+SV0255,CO0194,2024-12-22,Regulatory compliance,M&A targets,$15K-$50K,No urgency,None,4,5,Board Member,5,0,0,2200000,Due Diligence
+SV0256,CO0258,2024-10-04,Working capital,Investor network,$5K-$15K,1-3 months,Local boutique,3,8,CFO,2,0,0,6580000,Strategic Advisory
+SV0257,CO0443,2024-08-01,Investor network,M&A targets,$50K-$150K,Immediate,Big 4,4,2,Board Member,2,1,1,6980000,Strategic Advisory
+SV0258,CO0273,2022-11-19,Working capital,Investor network,<$5K,1-3 months,None,2,4,COO,3,1,0,2260000,Due Diligence
+SV0259,CO0394,2023-07-04,Investor network,Access to capital,$50K-$150K,6-12 months,International bank,4,1,CFO,4,0,1,11190000,Fundraising
+SV0260,CO0274,2021-01-24,M&A targets,Working capital,<$5K,6-12 months,In-house only,1,7,CFO,4,1,1,160000,Strategic Advisory
+SV0261,CO0278,2022-06-28,M&A targets,Regulatory compliance,$5K-$15K,1-3 months,Local boutique,1,10,CFO,2,1,1,880000,Fundraising
+SV0262,CO0083,2022-03-06,Investor network,Access to capital,$15K-$50K,1-3 months,Big 4,2,3,CEO,4,1,1,1200000,Fundraising
+SV0263,CO0058,2022-05-27,Regulatory compliance,Investor network,$5K-$15K,3-6 months,In-house only,4,5,Founder,3,1,0,1320000,Investor Matching
+SV0264,CO0053,2024-11-20,Access to capital,Investor network,$5K-$15K,3-6 months,None,1,5,CFO,3,1,1,4200000,Investor Matching
+SV0265,CO0001,2021-05-19,Strategic planning,Investor network,$50K-$150K,6-12 months,Local boutique,5,4,CFO,5,0,1,4010000,M&A Advisory
+SV0266,CO0216,2022-12-19,Strategic planning,Regulatory compliance,$50K-$150K,Immediate,None,4,0,CEO,4,1,0,4450000,Investor Matching
+SV0267,CO0317,2022-06-10,Strategic planning,Investor network,<$5K,3-6 months,Big 4,2,10,CEO,5,0,1,5440000,Strategic Advisory
+SV0268,CO0228,2021-08-10,Working capital,Strategic planning,$5K-$15K,6-12 months,Local boutique,4,6,COO,1,0,1,1160000,Strategic Advisory
+SV0269,CO0473,2021-01-03,Access to capital,Working capital,<$5K,No urgency,Local boutique,3,9,Board Member,3,0,0,890000,Fundraising
+SV0270,CO0484,2021-04-09,Working capital,Valuation clarity,$5K-$15K,3-6 months,None,3,7,CFO,2,0,0,4460000,Strategic Advisory
+SV0271,CO0254,2023-03-02,M&A targets,Regulatory compliance,>$150K,1-3 months,None,1,0,Board Member,3,1,0,1600000,Investor Matching
+SV0272,CO0159,2023-06-17,Working capital,Investor network,$15K-$50K,Immediate,Big 4,3,9,CEO,1,1,1,620000,Investor Matching
+SV0273,CO0287,2023-05-10,Working capital,Regulatory compliance,$15K-$50K,3-6 months,Big 4,2,6,CEO,2,1,1,7920000,Investor Matching
+SV0274,CO0066,2021-12-07,Working capital,M&A targets,>$150K,3-6 months,Local boutique,1,3,COO,4,0,1,12110000,Due Diligence
+SV0275,CO0403,2023-04-28,Investor network,Valuation clarity,$15K-$50K,6-12 months,None,2,5,Founder,4,0,1,14240000,Strategic Advisory
+SV0276,CO0309,2023-10-07,Strategic planning,Working capital,$15K-$50K,6-12 months,Big 4,2,8,CEO,3,1,1,3620000,M&A Advisory
+SV0277,CO0460,2023-02-15,Access to capital,Working capital,$5K-$15K,3-6 months,None,3,4,CFO,2,1,1,5610000,Strategic Advisory
+SV0278,CO0458,2022-12-21,Strategic planning,Valuation clarity,$5K-$15K,1-3 months,None,3,7,COO,2,0,1,11800000,Strategic Advisory
+SV0279,CO0095,2024-01-24,Regulatory compliance,Valuation clarity,$15K-$50K,1-3 months,Local boutique,2,4,Founder,5,0,1,1580000,Due Diligence
+SV0280,CO0493,2023-02-08,M&A targets,Access to capital,<$5K,1-3 months,Local boutique,3,1,COO,1,1,1,9110000,Strategic Advisory
+SV0281,CO0253,2021-07-27,Valuation clarity,Regulatory compliance,$5K-$15K,Immediate,None,3,3,CEO,4,0,1,3950000,Fundraising
+SV0282,CO0150,2023-09-09,M&A targets,Access to capital,$5K-$15K,3-6 months,None,3,1,Founder,3,1,1,7480000,Investor Matching
+SV0283,CO0023,2024-03-29,Strategic planning,Valuation clarity,<$5K,1-3 months,Local boutique,4,6,Board Member,2,1,1,3610000,Investor Matching
+SV0284,CO0244,2024-08-26,Valuation clarity,Working capital,$15K-$50K,1-3 months,None,2,6,Founder,4,0,0,10970000,Due Diligence
+SV0285,CO0215,2024-11-08,M&A targets,Investor network,$15K-$50K,Immediate,Big 4,5,2,CFO,3,0,0,3750000,Investor Matching
+SV0286,CO0399,2022-04-07,Investor network,Strategic planning,$5K-$15K,1-3 months,Big 4,2,6,Board Member,4,0,1,680000,Fundraising
+SV0287,CO0410,2021-11-30,Investor network,Strategic planning,$5K-$15K,Immediate,None,1,0,Board Member,3,0,0,12810000,Due Diligence
+SV0288,CO0131,2023-07-14,Strategic planning,Access to capital,$15K-$50K,3-6 months,None,3,0,CFO,4,1,1,1160000,M&A Advisory
+SV0289,CO0343,2021-05-31,Investor network,M&A targets,<$5K,1-3 months,In-house only,3,8,Board Member,5,1,0,10500000,Investor Matching
+SV0290,CO0148,2021-03-10,Investor network,Access to capital,$15K-$50K,3-6 months,Local boutique,5,5,CEO,1,1,0,2740000,Strategic Advisory
+SV0291,CO0381,2022-08-27,Regulatory compliance,Strategic planning,$50K-$150K,3-6 months,Local boutique,1,4,Founder,4,1,0,9720000,Fundraising
+SV0292,CO0109,2021-02-11,Regulatory compliance,M&A targets,$5K-$15K,No urgency,Big 4,4,5,Founder,1,0,0,9330000,Fundraising
+SV0293,CO0040,2022-10-15,Valuation clarity,Strategic planning,$50K-$150K,Immediate,Local boutique,2,5,CFO,4,1,0,4610000,Investor Matching
+SV0294,CO0121,2022-06-19,Regulatory compliance,Strategic planning,$50K-$150K,1-3 months,In-house only,4,0,CEO,2,1,1,4990000,M&A Advisory
+SV0295,CO0295,2021-08-03,Strategic planning,Investor network,<$5K,1-3 months,Local boutique,1,4,Board Member,5,1,1,4580000,Strategic Advisory
+SV0296,CO0120,2021-06-01,M&A targets,Access to capital,<$5K,3-6 months,None,5,8,Founder,5,0,1,400000,M&A Advisory
+SV0297,CO0456,2022-12-02,Strategic planning,Valuation clarity,>$150K,No urgency,Local boutique,1,3,Founder,1,1,1,3380000,M&A Advisory
+SV0298,CO0018,2021-12-15,Investor network,Working capital,$5K-$15K,6-12 months,Big 4,5,2,Founder,2,1,1,980000,Investor Matching
+SV0299,CO0169,2023-02-08,Working capital,Valuation clarity,$50K-$150K,3-6 months,Local boutique,4,0,Founder,3,0,1,3560000,Strategic Advisory
+SV0300,CO0198,2021-11-26,Strategic planning,M&A targets,$15K-$50K,1-3 months,Big 4,4,1,COO,5,0,1,960000,Investor Matching
+SV0301,CO0411,2021-06-03,Access to capital,Regulatory compliance,$5K-$15K,3-6 months,In-house only,1,2,CFO,2,1,1,920000,Investor Matching
+SV0302,CO0484,2024-01-26,Access to capital,Valuation clarity,<$5K,Immediate,Local boutique,1,3,Board Member,2,0,0,14930000,Fundraising
+SV0303,CO0143,2021-07-10,Access to capital,Investor network,$15K-$50K,3-6 months,None,3,6,Board Member,1,1,0,8740000,Investor Matching
+SV0304,CO0037,2022-11-24,Working capital,Strategic planning,$5K-$15K,3-6 months,None,5,5,CFO,2,1,0,2990000,Due Diligence
+SV0305,CO0186,2024-05-01,Strategic planning,Investor network,$15K-$50K,1-3 months,Big 4,3,10,CEO,2,1,0,3610000,Strategic Advisory
+SV0306,CO0261,2024-06-10,Strategic planning,Access to capital,$50K-$150K,1-3 months,None,2,7,CFO,3,1,1,2340000,Fundraising
+SV0307,CO0231,2023-09-16,M&A targets,Access to capital,$50K-$150K,6-12 months,None,2,8,Founder,1,1,0,5300000,Strategic Advisory
+SV0308,CO0254,2024-12-13,Access to capital,Investor network,$5K-$15K,Immediate,Big 4,1,5,Founder,1,0,1,1530000,Fundraising
+SV0309,CO0329,2021-03-05,Access to capital,Working capital,$50K-$150K,Immediate,Big 4,4,6,CFO,2,0,1,8100000,Due Diligence
+SV0310,CO0391,2023-06-03,Strategic planning,M&A targets,$50K-$150K,1-3 months,In-house only,2,3,CFO,3,1,1,2330000,Investor Matching
+SV0311,CO0297,2024-08-31,Valuation clarity,Strategic planning,$50K-$150K,1-3 months,None,2,1,Board Member,4,1,1,1970000,Fundraising
+SV0312,CO0468,2021-12-04,M&A targets,Investor network,$15K-$50K,6-12 months,None,3,8,Board Member,5,0,0,3070000,Fundraising
+SV0313,CO0010,2024-05-28,M&A targets,Regulatory compliance,$50K-$150K,3-6 months,None,3,8,COO,1,0,1,1660000,Fundraising
+SV0314,CO0446,2023-06-09,Access to capital,Strategic planning,$15K-$50K,6-12 months,Big 4,2,3,COO,3,1,0,4170000,Due Diligence
+SV0315,CO0410,2021-11-18,M&A targets,Access to capital,$5K-$15K,1-3 months,None,1,2,Founder,3,1,1,1750000,Strategic Advisory
+SV0316,CO0324,2021-04-20,Valuation clarity,Working capital,>$150K,6-12 months,Local boutique,3,9,COO,2,1,1,4790000,Due Diligence
+SV0317,CO0230,2021-07-27,Working capital,Access to capital,<$5K,6-12 months,None,2,10,COO,5,0,1,10120000,Fundraising
+SV0318,CO0024,2022-11-10,Valuation clarity,Working capital,$5K-$15K,1-3 months,Local boutique,4,5,CEO,1,1,1,1460000,Fundraising
+SV0319,CO0078,2022-02-25,Working capital,Valuation clarity,$50K-$150K,1-3 months,International bank,3,2,CFO,4,1,1,2630000,Investor Matching
+SV0320,CO0425,2022-01-25,Investor network,Strategic planning,<$5K,6-12 months,None,2,0,Board Member,2,1,0,4760000,Due Diligence
+SV0321,CO0193,2023-04-19,Valuation clarity,Regulatory compliance,$50K-$150K,Immediate,Big 4,5,3,COO,1,1,0,1940000,Due Diligence
+SV0322,CO0401,2024-11-28,Strategic planning,Access to capital,$15K-$50K,1-3 months,Big 4,3,0,Board Member,1,0,1,4770000,M&A Advisory
+SV0323,CO0109,2024-02-09,Investor network,Working capital,<$5K,Immediate,International bank,5,1,COO,3,1,1,5230000,Strategic Advisory
+SV0324,CO0280,2024-01-12,Access to capital,Working capital,$5K-$15K,Immediate,Big 4,3,2,COO,5,0,1,8860000,M&A Advisory
+SV0325,CO0411,2022-06-28,Working capital,Access to capital,$50K-$150K,Immediate,Local boutique,3,7,Founder,4,0,0,1640000,M&A Advisory
+SV0326,CO0263,2024-09-14,Investor network,Regulatory compliance,$15K-$50K,1-3 months,International bank,5,9,CEO,5,1,1,1170000,Strategic Advisory
+SV0327,CO0329,2022-07-31,Investor network,Strategic planning,>$150K,3-6 months,Local boutique,1,3,CFO,3,1,1,2210000,Investor Matching
+SV0328,CO0363,2022-09-02,Access to capital,Investor network,$50K-$150K,1-3 months,Big 4,2,3,CFO,4,1,1,1140000,Investor Matching
+SV0329,CO0355,2022-05-02,Investor network,Valuation clarity,$5K-$15K,6-12 months,None,1,9,Founder,4,1,1,5280000,Strategic Advisory
+SV0330,CO0378,2021-07-16,Working capital,Investor network,<$5K,1-3 months,Local boutique,1,8,Founder,2,0,1,940000,Strategic Advisory
+SV0331,CO0268,2021-04-12,Working capital,Investor network,>$150K,No urgency,In-house only,2,6,CFO,4,1,0,30930000,Due Diligence
+SV0332,CO0341,2023-03-16,Valuation clarity,M&A targets,$15K-$50K,No urgency,In-house only,4,1,CFO,1,0,1,10960000,Due Diligence
+SV0333,CO0259,2024-03-16,Access to capital,Regulatory compliance,<$5K,6-12 months,In-house only,1,2,CEO,5,1,0,3040000,Due Diligence
+SV0334,CO0335,2024-01-31,M&A targets,Strategic planning,$50K-$150K,No urgency,International bank,1,3,COO,5,0,0,7140000,Due Diligence
+SV0335,CO0085,2023-10-03,Working capital,Strategic planning,$50K-$150K,6-12 months,Local boutique,1,3,CEO,2,1,1,580000,Fundraising
+SV0336,CO0010,2021-11-11,Investor network,M&A targets,$15K-$50K,6-12 months,International bank,4,9,CFO,4,0,1,37410000,Fundraising
+SV0337,CO0289,2021-04-22,Working capital,Investor network,$5K-$15K,1-3 months,Big 4,3,7,COO,3,1,1,1660000,Investor Matching
+SV0338,CO0302,2023-01-09,Working capital,M&A targets,$15K-$50K,1-3 months,Local boutique,5,9,CFO,1,1,1,2660000,Fundraising
+SV0339,CO0059,2021-01-08,Strategic planning,Investor network,$15K-$50K,6-12 months,None,5,9,CEO,2,1,1,470000,Fundraising
+SV0340,CO0308,2023-05-26,Valuation clarity,Investor network,$50K-$150K,1-3 months,None,4,5,CEO,4,1,0,4880000,Due Diligence
+SV0341,CO0262,2021-06-29,M&A targets,Access to capital,>$150K,6-12 months,International bank,1,2,CEO,3,1,1,990000,Due Diligence
+SV0342,CO0386,2022-08-27,Working capital,Valuation clarity,$15K-$50K,6-12 months,Big 4,5,10,COO,4,1,0,3320000,Strategic Advisory
+SV0343,CO0285,2024-09-17,Access to capital,Investor network,$50K-$150K,1-3 months,None,4,8,Board Member,2,1,1,1740000,Due Diligence
+SV0344,CO0119,2024-07-04,Working capital,Regulatory compliance,>$150K,6-12 months,None,2,9,Board Member,3,0,0,1020000,Strategic Advisory
+SV0345,CO0168,2024-05-14,Access to capital,Valuation clarity,$5K-$15K,1-3 months,In-house only,5,7,CFO,3,0,1,1340000,Strategic Advisory
+SV0346,CO0353,2023-09-11,Access to capital,Investor network,<$5K,1-3 months,Local boutique,2,8,COO,3,0,1,3760000,Fundraising
+SV0347,CO0189,2022-02-13,Valuation clarity,Access to capital,$50K-$150K,3-6 months,Big 4,1,4,Founder,3,0,0,830000,Due Diligence
+SV0348,CO0452,2021-07-18,M&A targets,Valuation clarity,$5K-$15K,1-3 months,Big 4,5,2,Board Member,4,0,0,1420000,Fundraising
+SV0349,CO0251,2021-02-22,Access to capital,Regulatory compliance,<$5K,3-6 months,Big 4,4,3,COO,3,1,0,5820000,Due Diligence
+SV0350,CO0324,2022-02-28,Valuation clarity,Regulatory compliance,$5K-$15K,3-6 months,None,3,4,COO,4,0,0,40490000,Fundraising
